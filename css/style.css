@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;
+}
+.body {
+  font-family: sans-serif;
+}
+.header {
+  background-color: #C9C9C9;
+}
+.header-conteiner {
+  display: flex;
+  justify-content: space-between;
+  margin: auto;
+  max-width: 1600px;
+}
+.logotyp {
+  max-width: 140px;
+  display: inline;
+}
+.nav-link {
+  margin-left: 11px;
+  margin-right: 11px;
+  color: black;
+  text-decoration: none;
+}
